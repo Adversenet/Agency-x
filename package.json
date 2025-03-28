@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "@iconify-json/carbon": "^1.1.21",
-    "@nuxt/devtools": "latest",
+    "@nuxt/devtools": "^2.3.2",
     "@nuxtjs/color-mode": "^3.3.0",
     "@unocss/nuxt": "^0.57.1",
     "@unocss/preset-icons": "^0.57.1",
